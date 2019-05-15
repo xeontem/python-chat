@@ -1,0 +1,8 @@
+<! you logged in as Ubuntu !>
+Options  :
+<         input           >
+---------------------------
+
+---------------------------
+<         tChat           >
+Ubuntu
